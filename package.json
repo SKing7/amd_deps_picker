@@ -1,0 +1,16 @@
+{
+  "name": "amd_deps_picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genModDeps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sking.pt",
+  "license": "ISC",
+  "dependencies": {
+    "esprima": "^2.7.1",
+    "glob": "^6.0.1",
+    "lodash": "^3.10.1"
+  }
+}
