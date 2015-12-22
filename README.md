@@ -7,7 +7,7 @@
 - dep名根据父级所属进行压缩
 - 使用bind实现curried function
 - 分析AST得到相关依赖信息
-- 
+
 
 ###压缩后格式示例：
 ```javascript
